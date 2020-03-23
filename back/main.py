@@ -10,3 +10,9 @@ print('5')
 
 print('5 v2')
 
+print('6')
+
+print('7')
+
+print('8')
+
